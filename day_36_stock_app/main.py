@@ -14,7 +14,7 @@ stock_params = {
     "apikey": STOCK_API_KEY
 }
 
-NEWS_API_KEY = "b16def6175bd416f939ed040c1883d95"
+NEWS_API_KEY = "NEWS_API_KEY"
 
 ## STEP 1: Use https://www.alphavantage.co/documentation/#daily
 # When stock price increase/decreases by 5% between yesterday and the day before yesterday then print("Get News").
